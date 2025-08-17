@@ -1,4 +1,4 @@
 # demo-
-this is my first Repositiory,
+this is my first git Repositiory,
 <br>
 Author - Ahemad raza
